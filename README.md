@@ -1,7 +1,7 @@
 <p align="center">
-	<img src="https://i.ibb.co/jr9Nh6Q/Thumb.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://avatars.githubusercontent.com/u/91049304?v=4" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">stikerinbot</h1>
+<h1 align="center">Sadebot</h1>
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ariffb25/stikerinbot)
@@ -16,8 +16,8 @@
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/ariffb25/stikerinbot
-cd stikerinbot
+git clone https://github.com/sadexa/sadebot
+cd sadebot 
 npm i
 npm update
 node .
