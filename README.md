@@ -119,7 +119,7 @@ conn.logger.level = 'debug'
 
 ---------
 
- [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Sadexa](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25)
+ [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Sadexa](https://avatars.githubusercontent.com/u/91049304?v=4)](https://github.com/ariffb25)
 ----|----
 [Nurutomo](https://github.com/Nurutomo) | [Sadexa](https://github.com/sadexa)
  Penulis / Pencipta | Penulis ulang
